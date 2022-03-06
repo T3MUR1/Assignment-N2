@@ -1,0 +1,142 @@
+/* =============== Main ==============*/
+
+@font-face {
+    src: url(../styles/fonts/bpg_ingiri_arial.ttf);
+    font-family: 'ingiri';
+}
+
+@font-face {
+    src: url(../styles/fonts/bpg_nino_mtavruli_bold.ttf);
+    font-family: 'mtavruli';
+}
+
+.margin {
+    margin-left: 30px;
+    margin-top: 27px;
+}
+
+
+
+/* ====================== general Header ==================*/
+
+.navigation {
+    margin-top: 26.8px;
+}
+
+nav ul li {
+    font-family: 'mtavruli';
+    font-size: 22px;
+    line-height: 30px;
+}
+
+nav ul li {
+    color: #3D58A6;
+}
+
+.active a{
+    color: #EE4036;
+}
+
+
+
+/* ============================== news header ================== */
+
+.box {
+    width: 56px;
+    height: 56px;
+    background-color: #3D58A6;
+}
+
+.number {
+    font-size: 31px;
+    font-family: 'mtavruli';
+    color: white;
+    padding: 14px;
+}
+
+.month {
+    color: #3D58A6;
+    font-family: 'mtavruli';
+    font-size: 22px;
+    margin-top: 5px;
+}
+
+.title {
+    font-size: 20px;
+    font-family: 'mtavruli';
+    padding-top: 13px;
+}
+
+.comp {
+    padding-top: 18px;
+}
+
+.textplace {
+    width: 1146px;
+}
+
+.textplace p {
+    line-height: 20px;
+}
+
+.text2 {
+    margin-top: 26px;
+}
+
+.text3 {
+    margin-top: 26px;
+}
+
+.article {
+    margin-bottom: 34px;
+}
+
+
+/* ============================== contacts ================================*/
+
+.contacts {
+    line-height: 25px;
+    text-align: center;
+}
+
+.info {
+    font-size: 20px;
+    font-family: 'mtavruli';
+    color: #3D58A6;
+}
+
+main div span {
+    color: #808080;
+    font-size: 16px;
+    font-family: 'ingiri';
+}
+
+h3 {
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'ingiri';
+}
+
+.map iframe{
+    margin-top: 50px;
+    margin-left: 55px;
+    width: 1700px;
+    height: 1000px;
+}
+
+/*=============================== generalFooter ====================*/
+
+.icon {
+    display: inline-block;
+    padding-right: 35.6px;
+    cursor: pointer;
+}
+
+.border {
+    border-right: 1px solid #3D58A6;
+}
+
+.yt {
+    padding-left: 35.6px;
+}
+
