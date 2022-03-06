@@ -39,7 +39,7 @@ nav ul li {
 
 
 
-/* ============================== news header ================== */
+/* ============================== news main part ================== */
 
 .box {
     width: 56px;
@@ -77,6 +77,14 @@ nav ul li {
 
 .textplace p {
     line-height: 20px;
+}
+
+.text1 {
+    margin-top: 27.5px;
+}
+
+section img {
+    margin-top: 18px;
 }
 
 .text2 {
